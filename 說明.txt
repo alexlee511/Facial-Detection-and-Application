@@ -1,0 +1,6 @@
+generate_gif.py:
+  將輸入圖片名稱更改為face.jpg後執行程式，回輸出檔名為deal_face.gif的動畫檔案。
+
+opencv_realtime.py:
+  執行程式後，點選鏡頭視窗並按下按鍵"d"，即可進入動畫模式。
+  欲結束程式，請按下按鍵"q"即可離開。
